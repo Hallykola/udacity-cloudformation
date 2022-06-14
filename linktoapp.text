@@ -1,0 +1,3 @@
+These are the available pages on the servers deployed.
+Load balancer url(DNS Name) / home page: http://proje-WebAp-NCZM9Q4FSKUT-921746013.us-east-1.elb.amazonaws.com
+Additional webpage deployed url: http://proje-WebAp-NCZM9Q4FSKUT-921746013.us-east-1.elb.amazonaws.com/web
